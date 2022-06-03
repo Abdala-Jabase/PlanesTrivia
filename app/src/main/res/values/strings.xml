@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Planes Trivia</string>
+
+    <string-array name="Quizzes">
+        <item>Airlines Logos</item>
+        <item>Planes Types</item>
+        <item>Helicopter Types</item>
+    </string-array>
+    <string-array name="HelicopterTypes">
+        <item>5</item>
+        <item>All available</item>
+    </string-array>
+    <string-array name="PlaneTypes">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>All available</item>
+    </string-array>
+    <string-array name="AirlinesLogos">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>All available</item>
+    </string-array>
+</resources>
